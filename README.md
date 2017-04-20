@@ -1,4 +1,4 @@
-# gitFun
+# git Fun
 maybe this time
 
 
